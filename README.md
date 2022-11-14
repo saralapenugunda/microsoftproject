@@ -46,9 +46,9 @@ This is a web based application developed for health related based website in in
 
 
 ### Contact us -
+![Skin Beauty - Google Chrome 14-11-2022 21_20_06](https://user-images.githubusercontent.com/82666123/201707580-3cec70a3-a062-47c7-a6ef-94545f67bb53.png)
 
-![Skin Beauty - Google Chrome 14-11-2022 21_20_06](https://user-images.githubusercontent.com/82666123/201706762-ca52d449![Skin Beauty - Google Chrome 14-11-2022 21_20_15](https://user-images.githubusercontent.com/82666123/201706805-ab766773-7bf4-4df3-b9e7-d61dc23f7a8e.png)
--3d24-47b7-9a5b-74e42954b41e.png)
+![Skin Beauty - Google Chrome 14-11-2022 21_20_15](https://user-images.githubusercontent.com/82666123/201707633-c9ef88fd-dccc-4cac-a6b5-8c837190c2e5.png)
 
 
 ### beauty bot

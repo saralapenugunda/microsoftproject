@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link** -https://calm-bush-0e90fa000.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://drive.google.com/file/d/1A2tvP05MkbyYUASjxwbSHXeSry--EMwf/view?usp=drivesdk
 
 ## Azure technologies used for Project
 
@@ -26,7 +26,9 @@ This is a web based application developed for health related based website in in
 
 ![Skin Beauty - Google Chrome 14-11-2022 21_17_43](https://user-images.githubusercontent.com/82666123/201706252-e9bdec48-59de-42ce-bd05-d3cffb16da4b.png)
 ![Skin Beauty - Google Chrome 14-11-2022 21_20_32](https://user-images.githubusercontent.com/82666123/201706988-3335f2e5-d4a5-4d36-827c-ffc781735924.png)
-
+![Skin Beauty - Google Chrome 16-11-2022 19_38_19](https://user-images.githubusercontent.com/82666123/202235870-26bac859-9d20-4887-bc98-d160751bdabf.png)
+![Skin Beauty - Google Chrome 16-11-2022 19_37_59](https://user-images.githubusercontent.com/82666123/202235919-4f4bfa0f-00fa-4e8e-a42a-7d8fa91c407d.png)
+ 
 
 ![Skin Beauty - Google Chrome 14-11-2022 21_20_56](https://user-images.githubusercontent.com/82666123/201707020-adb0bc19-825f-4d97-96d2-e0533e275cfc.png)
 
